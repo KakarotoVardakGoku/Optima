@@ -23,5 +23,6 @@ sub inicio {
 		print OUT "$datos\n";
 	}
 	#print OUT "$datos\n";
+	#Algo de atadoso esto pero igual bien
 	close(OUT);
 }
